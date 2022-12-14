@@ -1,8 +1,12 @@
+<script>
+    import Meta from "$lib/Meta.svelte"
+</script>
+
+<Meta title="Datenschutzerklärung" description="" />
+
 
 <h1>Datenschutzerklärung</h1>
 
-
-<h1>Datenschutz</h1>
 <p>Verantwortlicher im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:&nbsp;</p>
 <p><span size="3">Andr&eacute; Ferdinand-Kroll</span></p>
 <h2>Datenschutz</h2>

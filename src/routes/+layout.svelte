@@ -1,8 +1,10 @@
 <script>
+    import '$lib/../css/global.css'
+    import '$lib/../css/fonts.css'
+    
     import Header from "$lib/Header.svelte"
     import Footer from "$lib/Footer.svelte"
-    import '../global.css'
-    import '../fonts.css'
+
 </script>
 
 <Header />
