@@ -1,10 +1,10 @@
 <script>
-    import Menu from "$lib/Menu.svelte"
+    import Header from "$lib/Header.svelte"
+    import Footer from "$lib/Footer.svelte"
 </script>
 
-<Menu />
+<Header />
 
 <slot />
 
-<hr />
-FOOTER
+<Footer />
